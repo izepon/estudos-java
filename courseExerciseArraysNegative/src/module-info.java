@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author izepon
+ *
+ */
+module courseExerciseArraysNegative {
+}
